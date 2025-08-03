@@ -8,8 +8,7 @@ This guide walks you through the full process of launching an EC2 instance and c
 
 Go to [https://aws.amazon.com](https://aws.amazon.com) and log in to your AWS account.
 
-📸 ![Step 1 - Sign In](<img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/1856f56a-00d8-4d0e-b28a-5a2c9f01cc02" />
-)
+(<img width="602" height="307" alt="Picture1" src="https://github.com/user-attachments/assets/f2ac3b18-3bdc-4dd9-bb4b-0a13c6cc04c4" />
 
 ---
 
